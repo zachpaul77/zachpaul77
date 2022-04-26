@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zachpaul77
-- 👀 I’m interested in Python / game modding
-- 🌱 I’m currently learning HTML / CSS / JavaScript
-- 💞️ I’m looking to collaborate on web applications
+- 👀 I’m interested in Python and game modding
+- 🌱 I’m currently learning React + Node.js
 - 📫 How to reach me - zachpaul121@gmail.com
 
 <!---
